@@ -10,11 +10,15 @@
                 "C:\\Users\\luan\\Documents\\Laim_iotsolution\\**",
                 "C:\\Users\\kosde\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\**",
                 "C:\\Users\\kosde\\Documents\\Arduino\\libraries\\**",
-                "C:\\Users\\kosde\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\**"
+                "C:\\Users\\kosde\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\**",
+                "C:\\Users\\OS\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\**",
+                "C:\\Users\\OS\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\OS\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\**"
             ],
             "forcedInclude": [
                 "C:\\Users\\luan\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\Arduino.h",
-                "C:\\Users\\kosde\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\Arduino.h"
+                "C:\\Users\\kosde\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\Arduino.h",
+                "C:\\Users\\OS\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\Arduino.h"
             ],
             "defines": [
                 "USBCON"
