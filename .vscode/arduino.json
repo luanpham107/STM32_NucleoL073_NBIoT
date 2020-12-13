@@ -1,0 +1,8 @@
+{
+    "port": "COM3",
+    "board": "STM32:stm32:Nucleo_64",
+    "configuration": "pnum=NUCLEO_L073RZ,upload_method=MassStorage,xserial=generic,usb=none,xusb=FS,opt=osstd,rtlib=nano",
+    "programmer": "AVR ISP",
+    "sketch": "stm32_dragino.ino",
+    "output": "output"
+}
